@@ -8,6 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/kassiopea-coder/java-hw11-Credit-Card-Number-Validator/issues/1
+* https://github.com/kassiopea-coder/java-hw11-Credit-Card-Number-Validator/issues/2
 
 
 ## Описание процесса тестирования

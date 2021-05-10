@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/kassiopea-coder/java-hw11-Credit-Card-Number-Validator/issues/1
-* https://github.com/kassiopea-coder/java-hw11-Credit-Card-Number-Validator/issues/2
+* [Невалидная карта свыше 16ти знаков](https://github.com/kassiopea-coder/java-hw11-Credit-Card-Number-Validator/issues/1);
+* [Не проверяются некоторые платежные системы](https://github.com/kassiopea-coder/java-hw11-Credit-Card-Number-Validator/issues/2)
 
 
 ## Описание процесса тестирования
